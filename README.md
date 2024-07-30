@@ -19,7 +19,7 @@ To run the chess game, follow these steps:
 
 1. Clone the Repository:
     ```bash
-    git clone https://github.com/yourusername/multiplayer-Chess-Game.git
+    git clone https://github.com/shadow-123-max/Multiplayer-Chess-Game-on-AWS-EC2
     ```
 2. Navigate to the Project Directory:
     ```bash
